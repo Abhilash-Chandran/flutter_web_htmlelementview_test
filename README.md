@@ -10,7 +10,7 @@ A Simple flutter project which uses HTMLElementView widget to show case some of 
 ## How to Run
 
 Assuming you have fluter for being set up in your device.
-If not refer [here]([https://link](https://flutter.dev/docs/get-started/web)).
+If not refer [here](https://flutter.dev/docs/get-started/web).
 1. Clone the repo
 2. Run `flutter pub get`
 3. Run `flutter clean`
