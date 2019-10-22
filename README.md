@@ -1,6 +1,6 @@
 # flutter_web_htmlelementview_test
 
-A new Flutter project.
+A Simple flutter project which uses HTMLElementView widget to show case some of the issues abou scrolling, and click being consumed by the underlying HTMLElementView widget.
 
 ## Getting Started
 
