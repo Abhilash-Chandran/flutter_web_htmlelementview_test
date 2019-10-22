@@ -3,7 +3,7 @@
 A Simple flutter project which uses HTMLElementView widget to show case some of the issues about scrolling,and click being consumed by the underlying `HTMLElementView` widget despite being overlaid by a material pop up menu or simple metrial dialog.
 
 ## How does the web app look like
-![screen shot1](screen_shot1.png)
+![screen shot1](screen_shot1.PNG)
 ![screen shot2](screen_shot2.png)
 ![screen shot3](screen_shot3.png)
 
